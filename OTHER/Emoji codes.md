@@ -1,5 +1,3 @@
-# Emoji codes
-
 ## People
 
 | :bowtie: `:bowtie:`                                             | :smile: `:smile:`                                               | :laughing: `:laughing:`                     |
@@ -110,7 +108,7 @@
 | :first_quarter_moon_with_face: `:first_quarter_moon_with_face:` | :moon: `:moon:`                                 | :earth_africa: `:earth_africa:`                               |
 | :earth_americas: `:earth_americas:`                             | :earth_asia: `:earth_asia:`                     | :volcano: `:volcano:`                                         |
 | :milky_way: `:milky_way:`                                       | :partly_sunny: `:partly_sunny:`                 | :octocat: `:octocat:`                                         |
-| :squirrel: `:squirrel:`                                         |
+| :squirrel: `:squirrel:`                                         | | |
 
 ## Objects
 

@@ -1,6 +1,4 @@
-ISO Country Codes
-=================
-
+------------------------------
 In HTML, country codes can be used as an addition to the language code in the lang attribute.
 
 The first two characters of a language code defines the language of the Web page (See Language Code Reference).
@@ -260,18 +258,20 @@ ISO Country Codes
 ISO Language Codes
 ==================
 
-You should always include the lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers:`
-<html lang="en">
-...
-</html>
-` In XHTML, the language is declared inside the <html> tag as follows:`
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-...
-</html>
-`
+You should always include the lang attribute inside the `\<html>` tag, to declare the language of the Web page. This is meant to assist search engines and browsers:
 
-ISO 639-1 Language Codes
-------------------------
+```html
+\<html lang="en">
+...
+\</html>
+` In XHTML, the language is declared inside the <html> tag as follows:`
+\<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+...
+\</html>
+```
+
+## ISO 639-1 Language Codes
+----
 
 | Language                           | ISO Code |
 |------------------------------------|----------|

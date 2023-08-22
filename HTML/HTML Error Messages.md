@@ -1,5 +1,3 @@
-# HTML Error Messages
-
 When a browser requests a service from a web server, an error might occur, and the server might return an error code like "404 Not Found".
 
 It is common to name these errors HTML error messages.

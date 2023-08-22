@@ -1,5 +1,3 @@
-## Complete List of All Bootstrap 4 Classes
-
 Complete list of all Bootstrap 4 CSS classes with description and categories:
 
 |Classes|Description | Category |
@@ -139,63 +137,63 @@ Complete list of all Bootstrap 4 CSS classes with description and categories:
 |.dropright | Right-aligns the dropdown |  Dropdowns |
 |.dropup | Indicates a dropup menu (upwards instead of downwards) |  Dropdowns |
 |.align-content-around | Align gathered items "around" |  Flex |
-|.align-content-*-around | Align gathered items "around" on different screens |  Flex |
+|.align-content-\*-around | Align gathered items "around" on different screens |  Flex |
 |.align-content-center | Align gathered items in the center |  Flex |
-|.align-content-*-center | Align gathered items in the center on different screens |  Flex |
+|.align-content-\*-center | Align gathered items in the center on different screens |  Flex |
 |.align-content-end | Align gathered items at the end |  Flex |
-|.align-content-*-end | Align gathered items at the end on different screens |  Flex |
+|.align-content-\*-end | Align gathered items at the end on different screens |  Flex |
 |.align-content-start | Align gathered items from the start |  Flex |
-|.align-content-*-start | Align gathered items from the start on different screens |  Flex |
+|.align-content-\*-start | Align gathered items from the start on different screens |  Flex |
 |.align-content-stretch | Stretch gathered items |  Flex |
-|.align-content-*-stretch | Stretch gathered items on different screens |  Flex |
+|.align-content-\*-stretch | Stretch gathered items on different screens |  Flex |
 |.align-items-start | Align single rows of items from the start |  Flex |
-|.align-items-*-start | Align single rows of items from the start on different screens |  Flex |
+|.align-items-\*-start | Align single rows of items from the start on different screens |  Flex |
 |.align-items-end | Align single rows of items at the end |  Flex |
-|.align-items-*-end | Align single rows of items at the end on different screens |  Flex |
+|.align-items-\*-end | Align single rows of items at the end on different screens |  Flex |
 |.align-items-center | Align single rows of items in the center |  Flex |
-|.align-items-*-center | Align single rows of items in the center on different screens |  Flex |
+|.align-items-\*-center | Align single rows of items in the center on different screens |  Flex |
 |.align-items-baseline | Align single rows of items at the baseline |  Flex |
-|.align-items-*-baseline | Align single rows of items at the baseline on different screens |  Flex |
+|.align-items-\*-baseline | Align single rows of items at the baseline on different screens |  Flex |
 |.align-items-stretch | Stretch single rows of items |  Flex |
-|.align-items-*-stretch | Stretch single rows of items on different screens |  Flex |
+|.align-items-\*-stretch | Stretch single rows of items on different screens |  Flex |
 |.align-self-start | Align a flex item from the start |  Flex |
-|.align-self-*-start | Align a flex item from the start on different screens |  Flex |
+|.align-self-\*-start | Align a flex item from the start on different screens |  Flex |
 |.align-self-end | Align a flex item at the end |  Flex |
-|.align-self-*-end | Align a flex item at the end on different screens |  Flex |
+|.align-self-\*-end | Align a flex item at the end on different screens |  Flex |
 |.align-self-center | Align a flex item in the center |  Flex |
-|.align-self-*-center | Align a flex item in the center on different screens |  Flex |
+|.align-self-\*-center | Align a flex item in the center on different screens |  Flex |
 |.align-self-baseline | Align a flex item at the baseline |  Flex |
-|.align-self-*-baseline | Align a flex item at the baseline on different screens |  Flex |
+|.align-self-\*-baseline | Align a flex item at the baseline on different screens |  Flex |
 |.align-self-stretch | Stretch a flex item |  Flex |
-|.align-self-*-stretch | Stretch a flex item on different screens |  Flex |
+|.align-self-\*-stretch | Stretch a flex item on different screens |  Flex |
 |.d-flex | Creates a flexbox container and transforms direct children into flex items |  Flex |
-|.d-*-flex | Creates a flexbox container on a specific screen size |  Flex |
+|.d-\*-flex | Creates a flexbox container on a specific screen size |  Flex |
 |.d-inline-flex | Creates an inline flexbox container |  Flex |
-|.d-*-inline-flex | Creates an inline flexbox container on a specific screen size |  Flex |
+|.d-\*-inline-flex | Creates an inline flexbox container on a specific screen size |  Flex |
 |.flex-column | Display flex items vertically |  Flex |
-|.flex-*-column | Display flex items vertically on different screen sizes: |  Flex |
+|.flex-\*-column | Display flex items vertically on different screen sizes: |  Flex |
 |.flex-column-reverse | Display flex items vertically, reversed |  Flex |
-|.flex-*-column-reverse | Display flex items vertically, reversed, on different screen sizes |  Flex |
+|.flex-\*-column-reverse | Display flex items vertically, reversed, on different screen sizes |  Flex |
 |.flex-fill | Used on flex items to force it/them into equal width columns |  Flex |
-|.flex-*-fill | Force flex items into equal widths on different screens |  Flex |
+|.flex-\*-fill | Force flex items into equal widths on different screens |  Flex |
 |.flex-grow-0/1 | Used on a single flex item to take up the rest of the available space |  Flex |
 |.flex-nowrap | Don't wrap flex items |  Flex |
-|.flex-*-nowrap | Don't wrap items on different screens |  Flex |
+|.flex-\*-nowrap | Don't wrap items on different screens |  Flex |
 |.flex-shrink-0/1 | Used on a single flex item to shrink it if necessary |   Flex |
 |.flex-row | Display flex items horizontally (side by side) |  Flex |
-|.flex-*-row | Display flex items horizontally on a specific screen size |  Flex |
+|.flex-\*-row | Display flex items horizontally on a specific screen size |  Flex |
 |.flex-row-reverse | Display flex items right-aligned and horizontally |  Flex |
-|.flex-*-row-reverse | Display flex items right-aligned and horizontally on a specific screen size |  Flex |
+|.flex-\*-row-reverse | Display flex items right-aligned and horizontally on a specific screen size |  Flex |
 |.flex-wrap | Wrap flex items |  Flex |
-|.flex-*-wrap | Wrap items on different screens |  Flex |
+|.flex-\*-wrap | Wrap items on different screens |  Flex |
 |.flex-wrap-reverse | Wrap flex items, in reversed order |  Flex |
-|.flex-*-wrap-reverse | Wrap flex items, in reversed order on different screens |  Flex |
+|.flex-\*-wrap-reverse | Wrap flex items, in reversed order on different screens |  Flex |
 |.justify-content-* | Aligns flex items from the start, at the end, centered, in between and "around" |  Flex |
-|.justify-content-*-around | Aligns flex items "around" on different screen sizes |  Flex |
-|.justify-content-*-between | Aligns flex items in "between" on different screen sizes |  Flex |
-|.justify-content-*-center | Aligns flex items in the center on different screen sizes |  Flex |
-|.justify-content-*-end | Aligns flex items at the end on different screen sizes |  Flex |
-|.justify-content-*-start | Aligns flex items from the start on different screen sizes |  Flex |
+|.justify-content-\*-around | Aligns flex items "around" on different screen sizes |  Flex |
+|.justify-content-\*-between | Aligns flex items in "between" on different screen sizes |  Flex |
+|.justify-content-\*-center | Aligns flex items in the center on different screen sizes |  Flex |
+|.justify-content-\*-end | Aligns flex items at the end on different screen sizes |  Flex |
+|.justify-content-\*-start | Aligns flex items from the start on different screen sizes |  Flex |
 |.col-auto | Make form columns automatically size themselves based on their content |  Forms |
 |.form-check | Container for checkboxes. Adds proper padding |  Forms |
 |.form-check-inline | Makes checkboxes appear on the same line (horizontally) |  Forms |
@@ -339,18 +337,18 @@ Complete list of all Bootstrap 4 CSS classes with description and categories:
 |.text-break | Prevents long text from breaking layout |  Typography |
 |.text-capitalize | Indicates capitalized text |  Typography |
 |.text-center | Center-aligns text |  Typography |
-|.text-*-center | Center-aligns text on different screens |  Typography |
+|.text-\*-center | Center-aligns text on different screens |  Typography |
 |.text-dark | Dark grey text color |  Typography |
 |.text-decoration-none | Removes the underline from a link |  Typography |
 |.text-hide | Hides text (helps replace an element's text content with a background image) |  Typography |
 |.text-justify | Indicates justified text |  Typography |
 |.text-left | Aligns the text to the left |  Typography |
-|.text-*-left | Left-aligns text on different screens |  Typography |
+|.text-\*-left | Left-aligns text on different screens |  Typography |
 |.text-lowercase | Changes text to lowercase |  Typography |
 |.text-nowrap | Prevents the text from wrapping |  Typography |
 |.text-reset | Resets the color of a text or a link (inherits the color from its parent) |  Typography |
 |.text-right | Aligns text to the right |  Typography |
-|.text-*-right | Right-aligns text on different screens |  Typography |
+|.text-\*-right | Right-aligns text on different screens |  Typography |
 |.text-uppercase | Makes text uppercase |  Typography |
 |.align-baseline | The element is aligned with the baseline of the parent. This is default |  Utilities |
 |.align-bottom | The element is aligned with the lowest element on the line |  Utilities |
@@ -376,46 +374,46 @@ Complete list of all Bootstrap 4 CSS classes with description and categories:
 |.clearfix | Clears floats |  Utilities |
 |.close | Styles a close icon. This is often used for alerts and modals. Often used together with the &times; symbol to create the actual icon (a better looking "x"). It floats right by default |  Utilities |
 |.d-block | Creates a block element (adds display:block) |  Utilities |
-|.d-*-block | Creates a block element on a specific screen width |  Utilities |
+|.d-\*-block | Creates a block element on a specific screen width |  Utilities |
 |.d-inline | Makes an element inline |  Utilities |
-|.d-*-inline | Makes an element inline on a specific screen size |  Utilities |
+|.d-\*-inline | Makes an element inline on a specific screen size |  Utilities |
 |.d-inline-block | Makes an element inline block |  Utilities |
-|.d-*-inline-block | Makes an element inline block on a specific screen size |  Utilities |
+|.d-\*-inline-block | Makes an element inline block on a specific screen size |  Utilities |
 |.d-none | Hides an element |  Utilities |
-|.d-*-none | Hides an element on a specific screen size |  Utilities |
+|.d-\*-none | Hides an element on a specific screen size |  Utilities |
 |.d-table | Makes an element display as a table |  Utilities |
-|.d-*-table | Makes an element display as a table on a specific screen size |  Utilities |
+|.d-\*-table | Makes an element display as a table on a specific screen size |  Utilities |
 |.d-table-cell | Makes an element display as a table cell |  Utilities |
-|.d-*-table-cell | Makes an element display as a table cell on a specific screen size |  Utilities |
+|.d-\*-table-cell | Makes an element display as a table cell on a specific screen size |  Utilities |
 |.d-table-row | Makes an element display as a table row |  Utilities |
-|.d-*-table-row | Makes an element display as a table row on a specific screen size |  Utilities |
+|.d-\*-table-row | Makes an element display as a table row on a specific screen size |  Utilities |
 |.fixed-bottom | Makes an element stay at the bottom of the screen (sticky/fixed) |  Utilities |
 |.fixed-top | Makes an element stay at the top of the screen (sticky/fixed) |  Utilities |
 |.float-left | Floats an element to the left |  Utilities |
-|.float-*-left | Floats an element to the left on different screens |  Utilities |
+|.float-\*-left | Floats an element to the left on different screens |  Utilities |
 |.float-none | Remove floats from an element |  Utilities |
 |.float-right | Floats an element to the right |  Utilities |
-|.float-*-right | Floats an element to the left on different screens |  Utilities |
+|.float-\*-right | Floats an element to the left on different screens |  Utilities |
 |.h-25 | Sets the height of an element to 25% |  Utilities |
 |.h-50 | Sets the height of an element to 50% |  Utilities |
 |.h-75 | Sets the height of an element to 75% |  Utilities |
 |.h-100 | Sets the height of an element to 100% |  Utilities |
 |.invisible | Make an element invisible |  Utilities |
-|.m-# / m-*-# | Responsive margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.mt-# / mt-*-# | Responsive top margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.mb-# / mb-*-# | Responsive bottom margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.ml-# / ml-*-# | Responsive left margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.mr-# / mr-*-# | Responsive right margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.mx-# / mx-*-# | Responsive left and right margin auto (horizontal) classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.my-# / my-*-# | Responsive top and bottom margin auto (vertical) classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.m-# / m-\*-# | Responsive margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.mt-# / mt-\*-# | Responsive top margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.mb-# / mb-\*-# | Responsive bottom margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.ml-# / ml-\*-# | Responsive left margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.mr-# / mr-\*-# | Responsive right margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.mx-# / mx-\*-# | Responsive left and right margin auto (horizontal) classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.my-# / my-\*-# | Responsive top and bottom margin auto (vertical) classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
 |.mx-auto | Centers an element horizontally |  Utilities |
-|.p-# / p-*-# | Responsive padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.pt-# / pt-*-# | Responsive top padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.pb-# / pb-*-# | Responsive bottom padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.pl-# / pl-*-# | Responsive left padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.pr-# / pr-*-# | Responsive right padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.py-# / py-*-# | Responsive top and bottom padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
-|.px-# / px-*-# | Responsive left and right padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.p-# / p-\*-# | Responsive padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.pt-# / pt-\*-# | Responsive top padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.pb-# / pb-\*-# | Responsive bottom padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.pl-# / pl-\*-# | Responsive left padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.pr-# / pr-\*-# | Responsive right padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.py-# / py-\*-# | Responsive top and bottom padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
+|.px-# / px-\*-# | Responsive left and right padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5 |  Utilities |
 |.rounded | Adds rounded corners to an element |  Utilities |
 |.rounded-bottom | Adds bottom rounded corners to an element |  Utilities |
 |.rounded-circle | Shapes an element to a circle (not supported in IE8 and earlier) |  Utilities |

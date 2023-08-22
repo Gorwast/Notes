@@ -1,7 +1,4 @@
-# HTML Canvas Reference
-
-The HTML \<canvas> tag is used to draw graphics, on the fly, via scripting (usually JavaScript). <br>
-
+The HTML \<canvas> tag is used to draw graphics, on the fly, via scripting (usually JavaScript). 
 ## Colors, Styles, and Shadows
 
 | Property      | Description                                                              |

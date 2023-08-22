@@ -1,6 +1,3 @@
-
-# Code Language Hints Reference Table for Fenced Code Blocks
-
 The following table lists the supported languages and their corresponding aliases on fenced code blocks.  
 
 | Language                | Aliases                                                  |

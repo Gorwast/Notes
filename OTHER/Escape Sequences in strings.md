@@ -1,5 +1,3 @@
-# Escape Sequences in strings
-
 |Codes|Meaning        |
 |-----|---------------|
 |\'   |single quotes  |

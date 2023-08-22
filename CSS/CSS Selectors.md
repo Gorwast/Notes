@@ -1,5 +1,4 @@
-# CSS Selectors
----
+----
 In CSS, selectors are patterns used to select the element(s) you want to style.
 
 Use our CSS Selector Tester to demonstrate the different selectors.
@@ -9,22 +8,22 @@ Use our CSS Selector Tester to demonstrate the different selectors.
 | .class               | .intro                | Selects all elements with class="intro"                                                                |
 | .class1.class2       | .name1.name2          | Selects all elements with both name1 and name2 set within its class attribute                          |
 | .class1 .class2      | .name1 .name2         | Selects all elements with name2 that is a descendant of an element with name1                          |
-| \#id                 | #firstname            | Selects the element with id="firstname"                                                                |
+| \#id                 | \#firstname            | Selects the element with id="firstname"                                                                |
 | *                    | *                     | Selects all elements                                                                                   |
 | element              | p                     | Selects all \<p> elements                                                                              |
 | element.class        | p.intro               | Selects all \<p> elements with class="intro"                                                           |
-| element,element      | div, p                | Selects all <div> elements and all \<p> elements                                                       |
-| element element      | div p                 | Selects all \<p> elements inside <div> elements                                                        |
-| element>element      | div > p               | Selects all \<p> elements where the parent is a <div> element                                          |
-| element+element      | div + p               | Selects all \<p> elements that are placed immediately after <div> elements                             |
+| element,element      | div, p                | Selects all \<div> elements and all \<p> elements|
+| element element | div p | Selects all \<p> elements inside \<div> elements |
+| element>element      | div > p               | Selects all \<p> elements where the parent is a \<div> element                                          |
+| element+element      | div + p               | Selects all \<p> elements that are placed immediately after \<div> elements                             |
 | element1~element2    | p ~ ul                | Selects every \<ul> element that are preceded by a \<p> element                                        |
 | [attribute]          | [target]              | Selects all elements with a target attribute                                                           |
 | [attribute=value]    | [target=\_blank]      | Selects all elements with target="\_blank"                                                             |
 | [attribute~=value]   | [title~=flower]       | Selects all elements with a title attribute containing the word "flower"                               |
 | [attribute\|=value]  | [lang\|=en]           | Selects all elements with a lang attribute value starting with "en"                                    |
-| [attribute^=value]   | a[href^="https"]      | Selects every <a> element whose href attribute value begins with "https"                               |
-| [attribute$=value]   | a[href$=".pdf"]       | Selects every <a> element whose href attribute value ends with ".pdf"                                  |
-| [attribute*=value]   | a[href*="w3schools"]  | Selects every <a> element whose href attribute value contains the substring "w3schools"                |
+| [attribute^=value]   | a[href^="https"]      | Selects every \<a> element whose href attribute value begins with "https"                               |
+| [attribute$=value]   | a[href$=".pdf"]       | Selects every \<a> element whose href attribute value ends with ".pdf"                                  |
+| [attribute*=value]   | a[href*="w3schools"]  | Selects every \<a> element whose href attribute value contains the substring "w3schools"                |
 | :active              | a:active              | Selects the active link                                                                                |
 | ::after              | p::after              | Insert something after the content of each \<p> element                                                |
 | ::before             | p::before             | Insert something before the content of each \<p> element                                               |
@@ -61,6 +60,6 @@ Use our CSS Selector Tester to demonstrate the different selectors.
 | :required            | input:required        | Selects input elements with the "required" attribute specified                                         |
 | :root                | :root                 | Selects the document's root element                                                                    |
 | ::selection          | ::selection           | Selects the portion of an element that is selected by a user                                           |
-| :target              | #news:target          | Selects the current active #news element (clicked on a URL containing that anchor name)                |
+| :target              | \#news:target          | Selects the current active \#news element (clicked on a URL containing that anchor name)                |
 | :valid               | input:valid           | Selects all input elements with a valid value                                                          |
 | :visited             | a:visited             | Selects all visited links                                                                              |

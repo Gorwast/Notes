@@ -1,5 +1,3 @@
-# Markdown syntax cheat sheet
-
 This Markdown cheat sheet provides a quick overview of all  
 the Markdown syntax elements.
 
