@@ -171,3 +171,6 @@ The table below lists all HTML attributes and what elements they can be used wit
 | value            | \<button>, \<input>, \<li>, \<option>, \<meter>, \<progress>, \<param>                                                        | Specifies the value of the element                                                                                               |
 | width            | \<canvas>, \<embed>, \<iframe>, \<img>, \<input>, \<object>, \<video>                                                         | Specifies the width of the element                                                                                               |
 | wrap             | \<textarea>                                                                                                                   | Specifies how the text in a text area is to be wrapped when submitted in a form                                                  |
+
+^109ff3
+
