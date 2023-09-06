@@ -6,7 +6,7 @@ title: Node
 ---
 flowchart LR
     id
-    id1["This is the text in the box ❤"]
+    id1["This is the text in UTF ❤"]
     id2[fa:fa-ban Hola]
     id --- id1 === id2
 ```
